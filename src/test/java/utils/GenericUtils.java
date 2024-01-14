@@ -416,6 +416,11 @@ public class GenericUtils {
         return element.isSelected();
     }
 
+    public boolean isElementDisplayed(By by){
+        WebElement element = this.driver.findElement(by);
+        return element.isDisplayed();
+    }
+
     public boolean isElementIsEnabled(By by){
         WebElement element = this.driver.findElement(by);
         return element.isEnabled();
