@@ -5,20 +5,10 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="bd156348-2003-47c8-a6f5-4483ae860d26" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/Project.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/codeStyles/codeStyleConfig.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/Main.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/CheckOutPageStepDefinitaions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/Hooks.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/chromedriver.exe" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/resources/extent.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/stepDefinitions/CheckOutPageStepDefinitaions.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/stepDefinitions/CheckOutPageStepDefinitaions.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/GenericUtils.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/GenericUtils.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/utils/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/utils/TestBase.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -55,7 +45,7 @@
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "D:/Shareef/Selenium Java/SeleniumBDDFrameworkFinal/src/test/java/features",
+    "last_opened_file_path": "D:/Shareef/Selenium Java/SeleniumBDDFrameworkFinal",
     "project.structure.last.edited": "Modules",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -63,18 +53,18 @@
 }]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\Shareef\Selenium Java" />
       <recent name="D:\Shareef\Selenium Java\SeleniumBDDFrameworkFinal\src\test\java\features" />
       <recent name="D:\Shareef\Selenium Java\SeleniumBDDFrameworkFinal\src\test\resources" />
       <recent name="D:\Shareef\Selenium Java\SeleniumBDDFrameworkFinal\drivers" />
       <recent name="D:\Shareef\Selenium Java\SeleniumBDDFrameworkFinal\src\test\drivers" />
-      <recent name="D:\Shareef\Selenium Java\SeleniumBDDFrameworkFinal\src\test\java\drivers" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="cucumberOptions" />
       <recent name="stepDefinitions" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.FailedTestRunner">
+  <component name="RunManager" selected="TestNG.TestNgTestRunner">
     <configuration name="Feature: searchProduct" type="CucumberJavaRunConfigurationType" factoryName="Cucumber java" temporary="true" nameIsGenerated="true">
       <option name="CUCUMBER_CORE_VERSION" value="5" />
       <option name="FILE_PATH" value="$PROJECT_DIR$/src/test/java/features/searchProduct.feature" />
@@ -167,8 +157,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="TestNG.FailedTestRunner" />
         <item itemvalue="TestNG.TestNgTestRunner" />
+        <item itemvalue="TestNG.FailedTestRunner" />
         <item itemvalue="TestNG.TestNgTestRunner (1)" />
         <item itemvalue="Cucumber Java.Feature: searchProduct" />
         <item itemvalue="Cucumber Java.Scenario: Search experience for product search in both home and offers page" />

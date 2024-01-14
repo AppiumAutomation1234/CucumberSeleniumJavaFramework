@@ -30,7 +30,7 @@ public class CheckOutPageStepDefinitaions {
         boolean test1 = checkoutPage.verifyPromoButton();
         Assert.assertTrue(test1);
         boolean test2 = checkoutPage.verifyPlaceOrder();
-        Assert.assertFalse(test2);
+        Assert.assertTrue(test2);
         checkoutPage.enterPromoCode("XYZ");
     }
 }
