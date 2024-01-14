@@ -12,7 +12,8 @@ import static io.cucumber.testng.CucumberOptions.SnippetType.CAMELCASE;
         monochrome = true,
         snippets = CAMELCASE,
         plugin = {"pretty", "html:target/cucumber.html", "json:target/cucumber.json",
-                "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:"
+                "com.aventstack.extentreports.cucumber.adapter.ExtentCucumberAdapter:",
+                "io.qameta.allure.cucumber7jvm.AllureCucumber7Jvm"
         }
         //dryRun = true
 )
