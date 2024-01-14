@@ -34,7 +34,7 @@ public class TestBase {
                 options.addArguments("--disable-gpu");
                 options.addArguments("start-maximized");
                 options.addArguments("force-device-scale-factor=1.20");
-                //options.addArguments("headless");
+                options.addArguments("headless");
                 this.driver = new ChromeDriver(options);
                 this.driver.manage().window().maximize();
 
